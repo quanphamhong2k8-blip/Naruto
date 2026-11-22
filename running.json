@@ -1,0 +1,34 @@
+{
+  "type": "bone-anim",
+  "version": 1,
+  "locks": {
+    "mixamorigRightArm#83": [
+      0.538605,
+      -0.199007,
+      -0.059389,
+      0.816562
+    ],
+    "mixamorigRightForeArm#66": [
+      -0.032203,
+      -0.109675,
+      -0.147273,
+      0.982469
+    ],
+    "mixamorigLeftArm#65": [
+      0.538208,
+      0.312446,
+      0.130248,
+      0.771845
+    ],
+    "mixamorigLeftForeArm#48": [
+      -0.034747,
+      -0.069455,
+      0.104417,
+      0.991497
+    ]
+  },
+  "clip": "mixamo.com",
+  "time": 0.1755,
+  "loop": true,
+  "speed": 1.6
+}

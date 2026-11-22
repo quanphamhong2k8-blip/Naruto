@@ -1,0 +1,118 @@
+{
+  "type": "bone-anim",
+  "version": 1,
+  "locks": {
+    "mixamorigRightArm#83": [
+      0.315211,
+      0.602312,
+      -0.459397,
+      0.571679
+    ],
+    "mixamorigRightForeArm#66": [
+      0.750222,
+      -0.074855,
+      -0.307997,
+      0.58026
+    ],
+    "mixamorigRightHand#67": [
+      -0.418512,
+      -0.394078,
+      -0.514388,
+      0.636361
+    ],
+    "mixamorigLeftArm#65": [
+      0.227399,
+      -0.191017,
+      0.062306,
+      0.952848
+    ],
+    "mixamorigLeftShoulder#40": [
+      -0.356614,
+      -0.377409,
+      0.697707,
+      -0.493552
+    ],
+    "mixamorigLeftForeArm#48": [
+      0.838846,
+      0.019202,
+      0.441064,
+      0.318481
+    ],
+    "mixamorigLeftHand#49": [
+      0.055968,
+      0.638662,
+      -0.066835,
+      0.764533
+    ],
+    "mixamorigLeftHandIndex1": [
+      0.060422,
+      -0.038542,
+      0.084112,
+      0.993876
+    ],
+    "mixamorigRightHandIndex1": [
+      0.083238,
+      0.025039,
+      -0.041182,
+      0.995363
+    ],
+    "mixamorigLeftHandRing2": [
+      0.947536,
+      0.051207,
+      -0.212983,
+      0.232791
+    ],
+    "mixamorigRightHandRing2": [
+      0.944169,
+      -0.055742,
+      0.219938,
+      0.238882
+    ],
+    "mixamorigLeftHandPinky2": [
+      0.812625,
+      -0.042278,
+      -0.491948,
+      0.309581
+    ],
+    "mixamorigRightHandPinky2": [
+      0.824712,
+      0.033555,
+      0.500485,
+      0.261225
+    ],
+    "mixamorigLeftHandThumb3": [
+      -0.065646,
+      0.238475,
+      -0.656251,
+      0.71285
+    ],
+    "mixamorigRightHandThumb3": [
+      -0.071899,
+      -0.247451,
+      0.6539,
+      0.711346
+    ],
+    "mixamorigLeftHandThumb2#51": [
+      0.373237,
+      -0.084532,
+      -0.848196,
+      0.366213
+    ],
+    "mixamorigRightHandThumb2": [
+      0.081889,
+      0.001818,
+      0.234362,
+      0.968693
+    ],
+    "mixamorigRightShoulder#43": [
+      0.6956,
+      -0.64384,
+      0.261936,
+      0.181662
+    ]
+  },
+  "clip": "mixamo.com",
+  "time": 0,
+  "loop": true,
+  "speed": 1
+}

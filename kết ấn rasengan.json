@@ -1,0 +1,214 @@
+{
+  "type": "bone-anim",
+  "version": 1,
+  "locks": {
+    "mixamorigRightForeArm#66": [
+      -0.196536,
+      0.574149,
+      -0.204706,
+      0.767998
+    ],
+    "mixamorigRightHand#67": [
+      0.295686,
+      0.889155,
+      -0.211547,
+      0.277888
+    ],
+    "mixamorigRightArm#83": [
+      0.328618,
+      -0.195469,
+      0.109764,
+      0.917471
+    ],
+    "mixamorigRightHandPinky1#68": [
+      0.153665,
+      -0.041126,
+      -0.042685,
+      0.986344
+    ],
+    "mixamorigRightHandIndex1": [
+      -0.005411,
+      -0.036577,
+      -0.224291,
+      0.973821
+    ],
+    "mixamorigRightHandMiddle1": [
+      0.013146,
+      -0.011575,
+      -0.119389,
+      0.992693
+    ],
+    "mixamorigRightHandRing1": [
+      0.042365,
+      0.005647,
+      -0.018816,
+      0.998909
+    ],
+    "mixamorigRightHandThumb2": [
+      -0.019815,
+      -0.025624,
+      -0.037455,
+      0.998773
+    ],
+    "mixamorigRightHandThumb1#69": [
+      0.049428,
+      -0.163679,
+      -0.45403,
+      0.874427
+    ],
+    "mixamorigRightHandThumb3": [
+      0.092826,
+      0.191969,
+      0.250371,
+      0.944376
+    ],
+    "mixamorigRightHandMiddle3": [
+      0.11063,
+      -0.001149,
+      0.035739,
+      0.993218
+    ],
+    "mixamorigRightHandIndex3": [
+      0.143924,
+      -0.000616,
+      0.001543,
+      0.989587
+    ],
+    "mixamorigRightHandRing3": [
+      0.061436,
+      -0.093872,
+      -0.071329,
+      0.991124
+    ],
+    "mixamorigRightHandPinky3": [
+      0.118138,
+      -0.082643,
+      -0.011695,
+      0.989483
+    ],
+    "mixamorigLeftForeArm#48": [
+      0.020443,
+      0.307849,
+      0.082307,
+      -0.947648
+    ],
+    "mixamorigLeftArm#65": [
+      0.431574,
+      -0.020261,
+      -0.343819,
+      0.83374
+    ],
+    "mixamorigLeftHand#49": [
+      -0.004328,
+      0.680427,
+      0.00766,
+      0.732763
+    ],
+    "mixamorigLeftHandIndex3": [
+      0.280794,
+      -0.022059,
+      -0.022023,
+      0.959262
+    ],
+    "mixamorigLeftHandMiddle3": [
+      0.191037,
+      0.009897,
+      -0.021844,
+      0.98129
+    ],
+    "mixamorigLeftHandRing3": [
+      0.294552,
+      0.010324,
+      -0.034087,
+      0.954971
+    ],
+    "mixamorigLeftHandPinky3": [
+      0.283193,
+      -0.0145,
+      -0.003469,
+      0.958947
+    ],
+    "mixamorigLeftHandIndex2": [
+      0.736631,
+      -0.057895,
+      -0.056391,
+      0.671449
+    ],
+    "mixamorigLeftHandMiddle2": [
+      0.59369,
+      -0.106085,
+      -0.335133,
+      0.723854
+    ],
+    "mixamorigLeftHandRing2": [
+      0.344156,
+      0.007894,
+      -0.025716,
+      0.938527
+    ],
+    "mixamorigLeftHandPinky2": [
+      0.291152,
+      0.003397,
+      0.015658,
+      0.956543
+    ],
+    "mixamorigLeftHandIndex1": [
+      0.674705,
+      0.11036,
+      -0.020829,
+      0.729492
+    ],
+    "mixamorigLeftHandMiddle1": [
+      0.696203,
+      -0.082146,
+      -0.145328,
+      0.698164
+    ],
+    "mixamorigLeftHandRing1": [
+      0.845249,
+      -0.09923,
+      -0.088881,
+      0.517501
+    ],
+    "mixamorigLeftHandPinky1": [
+      0.813086,
+      -0.252166,
+      -0.11692,
+      0.5115
+    ],
+    "mixamorigLeftHandThumb2#51": [
+      0.620533,
+      0.258945,
+      -0.572752,
+      0.468873
+    ],
+    "mixamorigHips#31": [
+      0.039796,
+      -0.246915,
+      0.041657,
+      0.967323
+    ],
+    "mixamorigLeftHandThumb1#50": [
+      0.039524,
+      -0.059055,
+      0.191371,
+      0.978942
+    ],
+    "mixamorigLeftShoulder#40": [
+      0.562788,
+      0.370128,
+      -0.579585,
+      0.458647
+    ],
+    "mixamorigSpine#34": [
+      0.38712,
+      0.03893,
+      0.018679,
+      0.921018
+    ]
+  },
+  "clip": "Running (1)",
+  "time": 0.1133,
+  "loop": true,
+  "speed": 1.4
+}
